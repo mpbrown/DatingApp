@@ -1,9 +1,9 @@
 [{
-    "Username": "Lola",
+    "Username": "Carol",
     "Gender": "female",
     "DateOfBirth": "1994-02-21",
     "Password": "password",
-    "KnownAs": "Lola",
+    "KnownAs": "Carol",
     "Created": "2017-08-02",
     "LastActive": "2017-08-02",
     "Introduction": "Nulla excepteur sit anim ex do qui laboris officia eiusmod ut incididunt. Enim occaecat sint dolor esse et enim. Ad cupidatat exercitation ea id eiusmod nostrud amet Lorem sint. Laboris cupidatat aute dolor ad eu tempor elit ea tempor quis et. Lorem eiusmod commodo cillum id aute nisi fugiat. Aute laborum tempor ullamco elit exercitation veniam commodo elit dolor.\r\n",
@@ -12,17 +12,17 @@
     "City": "Efland",
     "Country": "Burundi",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/women/3.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_ons_crd_04.jpg",
       "isMain": true,
       "description": "Non deserunt labore sunt ex laboris et adipisicing ullamco officia minim."
     }]
   },
   {
-    "Username": "Dorothy",
+    "Username": "Gamora",
     "Gender": "female",
     "DateOfBirth": "1979-04-19",
     "Password": "password",
-    "KnownAs": "Dorothy",
+    "KnownAs": "Gamora",
     "Created": "2017-01-21",
     "LastActive": "2017-01-21",
     "Introduction": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
@@ -31,17 +31,17 @@
     "City": "Deseret",
     "Country": "Mongolia",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/women/49.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/022gam_ons_crd_01-1.jpg",
       "isMain": true,
       "description": "Elit culpa eu excepteur ut elit tempor nulla duis dolore."
     }]
   },
   {
-    "Username": "Reba",
+    "Username": "Mantis",
     "Gender": "female",
     "DateOfBirth": "1984-12-05",
     "Password": "password",
-    "KnownAs": "Reba",
+    "KnownAs": "Mantis",
     "Created": "2017-06-24",
     "LastActive": "2017-06-24",
     "Introduction": "Ea tempor reprehenderit officia commodo aliqua dolor. Ex culpa eiusmod quis Lorem fugiat. Incididunt duis ad enim sunt qui. Ullamco magna dolor in eiusmod sit. Ut ea ut commodo ipsum eu non sit eiusmod voluptate consequat aute eu. Nisi velit in sunt labore nulla sunt quis amet enim. Nulla sint mollit cupidatat aliqua ex adipisicing sint id tempor officia incididunt irure enim.\r\n",
@@ -50,17 +50,17 @@
     "City": "Hannasville",
     "Country": "Poland",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/women/24.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/045mts_ons_crd_02.jpg",
       "isMain": true,
       "description": "Veniam dolore nisi magna laboris minim id pariatur officia."
     }]
   },
   {
-    "Username": "Annmarie",
+    "Username": "Shuri",
     "Gender": "female",
     "DateOfBirth": "1970-02-25",
     "Password": "password",
-    "KnownAs": "Annmarie",
+    "KnownAs": "Shuri",
     "Created": "2017-07-17",
     "LastActive": "2017-07-17",
     "Introduction": "Enim eiusmod esse magna aliquip occaecat. Non ea quis cillum aliquip reprehenderit aute proident officia do nulla voluptate duis. Deserunt ullamco quis qui cillum consequat esse sunt in dolore nulla sit officia voluptate. Tempor pariatur exercitation pariatur reprehenderit. Incididunt nulla magna exercitation officia enim veniam adipisicing laboris proident nisi id Lorem.\r\n",
@@ -69,17 +69,17 @@
     "City": "Sutton",
     "Country": "Bouvet Island",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/women/74.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/107shr_ons_crd_02.jpg",
       "isMain": true,
       "description": "Veniam velit amet tempor laboris reprehenderit deserunt quis do veniam."
     }]
   },
   {
-    "Username": "Ashley",
+    "Username": "Wanda",
     "Gender": "female",
     "DateOfBirth": "1953-03-01",
     "Password": "password",
-    "KnownAs": "Ashley",
+    "KnownAs": "Wanda",
     "Created": "2017-03-25",
     "LastActive": "2017-03-25",
     "Introduction": "Eiusmod dolore consectetur nisi laborum id duis occaecat dolor cupidatat excepteur eu aliquip. Nulla non ipsum in id eu consequat sint do non tempor aute incididunt do duis. Nostrud veniam ea in do aliqua mollit sit magna qui.\r\n",
@@ -88,17 +88,17 @@
     "City": "Bayview",
     "Country": "Zambia",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/women/33.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/012scw_ons_crd_02.jpg",
       "isMain": true,
       "description": "Ipsum enim cillum ad nisi consequat cillum ipsum ullamco tempor."
     }]
   },
   {
-    "Username": "Roy",
+    "Username": "Peter",
     "Gender": "male",
     "DateOfBirth": "1993-08-21",
     "Password": "password",
-    "KnownAs": "Roy",
+    "KnownAs": "Peter",
     "Created": "2017-08-03",
     "LastActive": "2017-08-03",
     "Introduction": "Cillum exercitation exercitation duis aliqua minim velit veniam. Veniam id exercitation excepteur dolore voluptate esse. Elit eiusmod voluptate ullamco fugiat sit cillum deserunt et.\r\n",
@@ -107,17 +107,17 @@
     "City": "Davenport",
     "Country": "Tuvalu",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/men/90.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_crd_02.jpg",
       "isMain": true,
       "description": "Irure cupidatat magna aute et dolore aliquip reprehenderit dolor irure."
     }]
   },
   {
-    "Username": "Duke",
+    "Username": "Heimdall",
     "Gender": "male",
     "DateOfBirth": "1996-09-07",
     "Password": "password",
-    "KnownAs": "Duke",
+    "KnownAs": "Heimdall",
     "Created": "2017-07-07",
     "LastActive": "2017-07-07",
     "Introduction": "Dolor voluptate enim laborum duis proident commodo sit. Sint cupidatat Lorem ullamco dolor qui proident. Consectetur fugiat ut ipsum ullamco ut magna minim consectetur consectetur. Quis labore nostrud minim dolor.\r\n",
@@ -126,17 +126,17 @@
     "City": "Inkerman",
     "Country": "Canada",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/men/96.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/116hdl_ons_crd_01-1.jpg",
       "isMain": true,
       "description": "Magna duis consectetur sit ut commodo non eiusmod."
     }]
   },
   {
-    "Username": "Lloyd",
+    "Username": "Drax",
     "Gender": "male",
     "DateOfBirth": "1957-03-07",
     "Password": "password",
-    "KnownAs": "Lloyd",
+    "KnownAs": "Drax",
     "Created": "2017-08-22",
     "LastActive": "2017-08-22",
     "Introduction": "Nostrud reprehenderit mollit magna incididunt nulla mollit ad do ullamco ipsum reprehenderit consequat minim. Nisi id est et consequat reprehenderit tempor fugiat aliquip mollit aute consectetur culpa. Ut amet aliqua minim magna. Velit dolore consectetur culpa ea magna nisi eu sit velit.\r\n",
@@ -145,17 +145,17 @@
     "City": "Loma",
     "Country": "Paraguay",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/men/4.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/025drx_ons_crd_02.jpg",
       "isMain": true,
       "description": "Cupidatat veniam ea magna cillum velit minim non minim tempor ipsum excepteur."
     }]
   },
   {
-    "Username": "Larsen",
+    "Username": "T'Challa",
     "Gender": "male",
     "DateOfBirth": "1969-08-15",
     "Password": "password",
-    "KnownAs": "Larsen",
+    "KnownAs": "T'Challa",
     "Created": "2017-02-17",
     "LastActive": "2017-02-17",
     "Introduction": "Mollit cillum ex eiusmod magna et dolor sit duis velit pariatur enim anim occaecat. Excepteur excepteur ut dolor nisi consequat mollit quis. Nisi irure quis et id amet aliqua.\r\n",
@@ -164,17 +164,17 @@
     "City": "Bynum",
     "Country": "Pakistan",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/men/76.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_ons_crd_02.jpg",
       "isMain": true,
       "description": "Amet officia enim pariatur mollit tempor in ut."
     }]
   },
   {
-    "Username": "Simon",
+    "Username": "Rocket",
     "Gender": "male",
     "DateOfBirth": "1984-02-19",
     "Password": "password",
-    "KnownAs": "Simon",
+    "KnownAs": "Rocket",
     "Created": "2017-06-27",
     "LastActive": "2017-06-27",
     "Introduction": "Aliqua nisi labore tempor adipisicing. Lorem in ut enim quis dolor magna commodo nisi ad voluptate et excepteur aliqua. Ea nostrud velit laborum sit nisi cillum proident nisi.\r\n",
@@ -183,7 +183,7 @@
     "City": "Cavalero",
     "Country": "Viet Nam",
     "Photos": [{
-      "url": "https://randomuser.me/api/portraits/men/14.jpg",
+      "url": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/023rra_ons_crd_03.jpg",
       "isMain": true,
       "description": "Nulla nisi tempor sint cillum aliqua esse aute."
     }]
