@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace DatingApp.API.Dtos
 {
     public class UserForUpdateDto
@@ -7,5 +9,7 @@ namespace DatingApp.API.Dtos
         public string Interests { get; set; }
         public string City { get; set; }
         public string Country { get; set; }
+        [RegularExpression("^(women|men|everyone)$", ErrorMessage="Preferences options are women, men, and everyone.")]
+        public string Preferences { get; set; }
     }
 }
