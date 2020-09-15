@@ -36,6 +36,7 @@ import { UserService } from './_services/user.service';
 import { MemberDetailResolver } from './_resolvers/member-detail.resolver';
 import { MemberListResolver } from './_resolvers/member-list.resolver';
 import { MemberEditResolver } from './_resolvers/member-edit.resolver';
+import { ListsResolver } from './_resolvers/lists.resolver';
 
 // tslint:disable-next-line: typedef
 export function tokenGetter(){
@@ -81,7 +82,7 @@ export function tokenGetter(){
     })
   ],
   providers: [
-    AuthService, 
+    AuthService,
     ErrorInterceptorProvider,
     AlertifyService,
     AuthGuard,
@@ -89,7 +90,8 @@ export function tokenGetter(){
     MemberDetailResolver,
     MemberListResolver,
     MemberEditResolver,
-    PreventUnsavedChanges
+    PreventUnsavedChanges,
+    ListsResolver
   ],
   bootstrap: [AppComponent],
 })
