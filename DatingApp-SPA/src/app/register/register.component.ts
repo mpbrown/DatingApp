@@ -68,6 +68,7 @@ export class RegisterComponent implements OnInit {
     if (this.registerForm.get('genderOption').value !== 'Let me type') {
       this.registerForm.get('gender').setValue(this.registerForm.get('genderOption').value);
     }
+
     if (this.registerForm.valid){
       const clone = Object.assign({}, this.registerForm.value);
       delete clone.genderOption;

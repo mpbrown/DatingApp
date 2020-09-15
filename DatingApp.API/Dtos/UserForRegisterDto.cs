@@ -23,7 +23,7 @@ namespace DatingApp.API.Dtos
         public DateTime Created { get; set; }
         public DateTime LastActive { get; set; }
         [Required]
-        [RegularExpression("^(women|men|everyone)$", ErrorMessage="Preferences options are women, men, and everyone.")]
+        [RegularExpression("^(female|male|everyone)$", ErrorMessage="Preferences options are female, male, and everyone.")]
         public string Preferences { get; set; }
 
         public UserForRegisterDto()
