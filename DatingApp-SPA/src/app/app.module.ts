@@ -28,6 +28,7 @@ import { MemberEditComponent } from './members/member-edit/member-edit.component
 import { PhotoEditorComponent } from './members/photo-editor/photo-editor.component';
 import { ListsComponent } from './lists/lists.component';
 import { MessagesComponent } from './messages/messages.component';
+import { MemberMessagesComponent } from './members/member-messages/member-messages.component';
 import { appRoutes } from './routes';
 import { AlertifyService } from './_services/alertify.service';
 import { AuthGuard } from './_guards/auth.guard';
@@ -37,6 +38,7 @@ import { MemberDetailResolver } from './_resolvers/member-detail.resolver';
 import { MemberListResolver } from './_resolvers/member-list.resolver';
 import { MemberEditResolver } from './_resolvers/member-edit.resolver';
 import { ListsResolver } from './_resolvers/lists.resolver';
+import { MessagesResolver } from './_resolvers/messages.resolver';
 
 // tslint:disable-next-line: typedef
 export function tokenGetter(){
@@ -56,6 +58,7 @@ export function tokenGetter(){
     PhotoEditorComponent,
     ListsComponent,
     MessagesComponent,
+    MemberMessagesComponent,
   ],
   imports: [
     BrowserModule,
@@ -91,7 +94,8 @@ export function tokenGetter(){
     MemberListResolver,
     MemberEditResolver,
     PreventUnsavedChanges,
-    ListsResolver
+    ListsResolver,
+    MessagesResolver
   ],
   bootstrap: [AppComponent],
 })
